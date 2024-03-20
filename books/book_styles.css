@@ -1,0 +1,47 @@
+
+
+h1 {
+    color: #005a9c;
+    margin-bottom: 20px; 
+}
+
+
+img {
+    width: 200px; 
+    height: auto; 
+    float: left; 
+    margin-right: 50px; 
+    border-radius: 10px; 
+}
+
+p {
+    overflow: hidden; 
+    margin-left: 220px; 
+}
+
+
+a {
+    color: #005a9c; 
+    text-decoration: none; 
+}
+
+a:hover {
+    text-decoration: underline; 
+}
+
+
+ol, ul {
+    padding-left: 20px; 
+}
+
+dl {
+    padding-left: 20px;
+}
+
+dt {
+    font-weight: bold; 
+}
+
+dd {
+    margin-left: 20px; 
+}
