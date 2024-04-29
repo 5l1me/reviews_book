@@ -21,8 +21,14 @@ p {
 
 
 a {
-    color: #005a9c; 
-    text-decoration: none; 
+    display: block;
+    background-color: #005a9c;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: 200px;
 }
 
 a:hover {
